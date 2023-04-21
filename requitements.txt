@@ -1,3 +1,5 @@
 pyyaml
 uritemplate
 django-rest-swagger
+django
+djangorestframework
