@@ -3,3 +3,4 @@ uritemplate
 django-rest-swagger
 django
 djangorestframework
+djangorestframework-simplejwt
